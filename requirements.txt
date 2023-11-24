@@ -1,0 +1,6 @@
+colorama
+pywhatkit
+opencv-python
+numpy
+pillow
+setproctitle
